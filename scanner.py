@@ -13,4 +13,4 @@ def portScanner(port):
     else:
         print("The port is open")
 
-portScanner(port)
+portScanner
